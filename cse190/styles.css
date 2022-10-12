@@ -1,0 +1,23 @@
+body{
+    background:darkred;
+    font-family:cursive;
+}
+
+.assignment
+{
+    display: flex;
+    padding: 12px;
+    margin: 10px;
+    background: ivory;
+}
+
+.assignment img
+{
+    width: 400px;
+    padding: 12px;
+}
+
+h1{
+    color: whitesmoke;
+    text-align:center;
+}
