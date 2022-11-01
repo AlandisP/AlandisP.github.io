@@ -14,10 +14,25 @@ body{
 .assignment img
 {
     width: 400px;
-    padding: 12px;
+    margin: 12px;
+    border:5px solid #DAA520;
+}
+
+.assignment img:hover {
+    border:5px solid black;
+
 }
 
 h1{
     color: whitesmoke;
     text-align:center;
+}
+
+a {
+    text-decoration:none;
+    color:#DAA520;
+}
+
+a:hover {
+    color:black;
 }
